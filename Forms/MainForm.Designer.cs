@@ -52,9 +52,9 @@ namespace Updater.Forms
             this.lblProgress.BackColor = System.Drawing.Color.Transparent;
             this.lblProgress.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblProgress.ForeColor = System.Drawing.Color.White;
-            this.lblProgress.Location = new System.Drawing.Point(657, 569);
+            this.lblProgress.Location = new System.Drawing.Point(337, 569);
             this.lblProgress.Name = "lblProgress";
-            this.lblProgress.Size = new System.Drawing.Size(135, 22);
+            this.lblProgress.Size = new System.Drawing.Size(455, 22);
             this.lblProgress.TabIndex = 5;
             this.lblProgress.Text = "Checking for updates...";
             this.lblProgress.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
